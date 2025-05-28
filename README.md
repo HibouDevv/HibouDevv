@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HibouOfficial
 - 👀 I’m interested in soccer, track, and coding.
-- 🌱 I’m currently learning how to code using HTML.
+- 🌱 I’m currently learning how to code using HTML and CSS.
 - 💞️ I’m looking to collaborate on HTML.
 - 📫 How to reach me: rarhibou.ahmed@gmail.com
 - 😄 Pronouns: he/him
