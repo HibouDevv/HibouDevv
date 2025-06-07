@@ -2,7 +2,7 @@
 - 👀 I’m interested in soccer, track, and coding.
 - 🌱 I’m currently learning how to code using HTML and CSS.
 - 💞️ I’m looking to collaborate on HTML.
-- 📫 How to reach me: rarhibou.ahmed@gmail.com
+- 📫 How to reach me: rarhibou.ahmed@gmail.com or add me on discord: **hibouofficial.**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once scored a hat-trick at a soccer game 2 years ago.
 
