@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once scored a hat-trick at a soccer game! :)
   
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=HibouDevv&color=blue)
 <!---
 HibouDevv/HibouOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
