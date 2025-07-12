@@ -16,11 +16,12 @@
   <img alt="audacity" src="https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white">
   <img alt="FireFox" src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white" />
 </p>
-- 🌱 I’m currently learning how to code using JavaScript. <br>
-- 💞️ I’m looking to collaborate on HTML, CSS, and JS. <br>
-- 📫 How to reach me: <a href="mailto:"hiboubusinessinquiries@gmail.com">hiboubusinessinquiries@gmail.com</a> or add me on discord: <b>.hibou</b> <br>
-- 😄 Pronouns: he/him
-
+<ul>
+<li> 🌱 I’m currently learning how to code using JavaScript. </li> <br>
+<li> 💞️ I’m looking to collaborate on HTML, CSS, and JS. </li> <br>
+<li> 📫 How to reach me: <a href="mailto:"hiboubusinessinquiries@gmail.com">hiboubusinessinquiries@gmail.com</a> or add me on discord: <b>.hibou</b> </li> <br>
+<li> 😄 Pronouns: he/him </li>
+</ul>
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HibouDevv&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
