@@ -28,6 +28,10 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HibouDevv&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 ![](https://komarev.com/ghpvc/?username=HibouDevv&color=blue)
+
+<!-- add if server is up or down:
+up: <img alt="up" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" />
+down: <img alt="down" src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" />
 <!---
 HibouDevv/HibouOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
