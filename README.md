@@ -19,7 +19,7 @@
 <ul>
 <li> 🌱 I’m currently learning how to code using JavaScript. </li> <br>
 <li> 💞️ I’m looking to collaborate on HTML, CSS, and JS. </li> <br>
-<li> 📫 How to reach me: <a href="mailto:"hiboubusinessinquiries@gmail.com">hiboubusinessinquiries@gmail.com</a> or add me on discord: <b>.hibou</b> </li> <br>
+<li> 📫 How to reach me: <a href="mailto:"hiboudevinfo@gmail.com">hiboudevinfo@gmail.com</a> or add me on discord: <b>.hibou</b> </li> <br>
 <li> 😄 Pronouns: he/him </li>
 </ul>
 <h3>My GitHub contributions summary</h3>
