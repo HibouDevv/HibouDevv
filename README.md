@@ -26,7 +26,7 @@
 
 ### 🚀 Featured Project
 
-**[To-Do List](https://github.com/HibouDevv/hibou-to-do-list)**  
+**[To-Do List](https://github.com/HibouDevv/to-do-list)**  
 A simple and intuitive task manager built to help users organize daily goals and boost productivity.  
 *(Check it out to stay organized and productive!)*
 
