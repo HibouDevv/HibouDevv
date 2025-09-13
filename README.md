@@ -30,7 +30,7 @@
 A simple and intuitive task manager built to help users organize daily goals and boost productivity.  
 *(Check it out to stay organized and productive!)*
 
-**[Minimalist New Tab](https://github.com/HibouDevv/hibouNT)**
+**[HibouNT](https://github.com/HibouDevv/hibouNT)**
 A simple and minimalist new tab experience, with a built-in to-do list, and it is fully customizable.
 
 **[Ping Pong Game](https://github.com/HibouDevv/hiboupong)**
