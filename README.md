@@ -53,14 +53,11 @@ Explore my work, projects, and more on my personal portfolio website!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HibouDevv&layout=compact&hide_border=true&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HibouDevv&title=Stars,Commit,Followers,Issues,Repositories,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy[...])
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=HibouDevv&title=Stars,Commit,Followers,Issues,Repositories,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy[...]) -->
 
 ![](https://komarev.com/ghpvc/?username=HibouDevv&theme=dark)
 
 <!-- add if server is up or down:
 up: <img alt="up" src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" />
 down: <img alt="down" src="https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg" />
-<!---
-HibouDevv/HibouOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
