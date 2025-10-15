@@ -36,8 +36,8 @@ A simple and minimalist new tab experience, with a built-in to-do list, and it i
 **[Ping Pong Game](https://github.com/HibouDevv/hiboupong)**
 A simple and minimalist ping pong game.
 
-**[HibouNT](https://github.com/HibouDevv/hibouNT)**
-A minimalist and customizable new tab experience.
+**[HibouPad](https://github.com/HibouDevv/hiboupad)**
+A simple note taking website, created for my first hackathon ❤
 
 ---
 
