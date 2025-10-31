@@ -7,16 +7,16 @@
   <img alt="css" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" />
   <img alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
   <img alt="windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
 <ul>
 <li> 🌱 I’m currently learning how to code using Python. </li> <br>
 <li> 💞️ I’m looking to collaborate on HTML, CSS, and JS. </li> <br>
 <li> 📫 How to reach me: <a href="mailto:hiboudevinfo@gmail.com">hiboudevinfo@gmail.com</a>  
-     | Discord: <b>.hibou</b>  
+     | Discord: <b>hiboudev</b>  
      | X (Twitter): <a href="https://x.com/HibouOfficial_">@HibouOfficial_</a>
 </li> <br>
 <li> 😄 Pronouns: he/him </li>
