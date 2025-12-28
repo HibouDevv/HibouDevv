@@ -1,17 +1,10 @@
 ## 👋 Hi, I’m Hibou
 
-<h3>I work with</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="css" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
-  <img alt="windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
+### I work with
 
+  HTML, CSS, JS, Python, Mintlify, and Godot (GDScript)
+
+<br>
 <ul>
 <li> 🌱 I’m currently learning how to code using Python. </li> <br>
 <li> 💞️ I’m looking to collaborate on HTML, CSS, and JS. </li> <br>
@@ -43,7 +36,7 @@ A simple note taking website, created for my first hackathon ❤
 
 ### 🌐 My Portfolio
 
-**[hiboudevv.github.io](https://hiboudevv.github.io)**  
+**[hiboudevv.github.io](https://hibou.redz.city)**  
 Explore my work, projects, and more on my personal portfolio website!
 
 ---
