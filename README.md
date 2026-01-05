@@ -36,7 +36,8 @@ A simple note taking website, created for my first hackathon ❤
 
 ### 🌐 My Portfolio
 
-**[hiboudevv.github.io](https://hibou.redz.city)**  
+**[https://hibou.redz.city](https://hibou.redz.city)**  (Thanks redzgt for the domain ❤)
+-
 Explore my work, projects, and more on my personal portfolio website!
 
 ---
